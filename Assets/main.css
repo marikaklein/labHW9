@@ -1,0 +1,25 @@
+body {
+background-image: linear-gradient(black, darkblue, purple); height: 1500px;
+}
+
+h1 {
+ margin-top: 50px;
+ color: white;
+ text-align: center;
+ font-family: 'Potta One', cursive;
+ font-size: 34px;
+}
+
+h2 {
+ color: white;
+ font-family: courier;
+ font-size: 20px;
+ text-align: center;
+}
+
+p {
+ color: white;
+ font-family: arial;
+ font-size: 16px;
+ text-align: center;
+}
